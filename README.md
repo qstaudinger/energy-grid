@@ -9,6 +9,7 @@ Modernisation Act (Netzentgeltmodernisierungsgesetz) in 2016. The reform har
 monised transmission-level network charges and gradually phased out avoided
 network charges, which had previously been paid to decentralised generators as an
 incentive.
+
 This study examines developments since the law came into force in 2017. I compute
 municipal-level network charges for all German municipalities and analyse their
 evolution over time, focusing on changes in means and variances. Municipalities
